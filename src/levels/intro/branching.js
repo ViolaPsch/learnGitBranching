@@ -151,9 +151,9 @@ exports.level = {
               "",
               "Branches sind in Git extrem schlank. Sie sind einfach Verweise auf einen bestimmten Commit -- das ist alles. Es ist unter Git-Enthusiasten deshalb gängige Praxis, früh und oft Branches anzulegen.",
               "",
-              "Da das Anlegen von Branches keinen Plattenplatz und Speicher verbraucht, liegt es nahe die Arbeit in kleine logische Häppchen aufzuteilen, anstatt mit wenigen großen, monolithischen Branches zu hantieren.",
+              "Da das Anlegen von Branches keinen Plattenplatz und Speicher verbraucht, liegt es nahe, die Arbeit in kleine logische Häppchen aufzuteilen, anstatt mit wenigen großen, monolithischen Branches zu hantieren.",
               "",
-              "Wir werden sehen wie Commits und Branches zusammengehören, sobald wir anfangen mit beiden zu arbeiten. Bis hierhin merk dir einfach, dass ein Branch im Prinzip bedeutet \"ich möchte die Arbeit, die in diesem Commit und seinen Vorgängern steckt, sichern\"."
+              "Wir werden sehen, wie Commits und Branches zusammengehören, sobald wir anfangen, mit beiden zu arbeiten. Bis hierhin merk dir einfach, dass ein Branch im Prinzip bedeutet \"ich möchte die Arbeit, die in diesem Commit und seinen Vorgängern steckt, sichern\"."
             ]
           }
         },
@@ -189,13 +189,13 @@ exports.level = {
           "type": "GitDemonstrationView",
           "options": {
             "beforeMarkdowns": [
-              "Sagen wir Git also erst mal auf welchem Branch wir arbeiten wollen, und zwar mit",
+              "Sagen wir Git also erst mal, auf welchem Branch wir arbeiten wollen, und zwar mit",
               "",
               "```",
               "git checkout <Name>",
               "```",
               "",
-              "Das wird uns auf den neuen Branch bringen bevor wir unsere Änderungen committen."
+              "Das wird uns auf den neuen Branch bringen, bevor wir unsere Änderungen committen."
             ],
             "afterMarkdowns": [
               "Und fertig! Unsere Änderungen wurden im neuen Branch gespeichert."
