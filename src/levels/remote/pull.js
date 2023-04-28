@@ -523,14 +523,14 @@ exports.level = {
               "",
               "Jetzt, wo wir wissen, wie wir mit `git fetch` Daten von einem entfernten Repository holen können, wollen wir unsere lokalen Daten aktualisieren, damit sie die Änderungen vom Server beinhalten.",
               "",
-              "Tatsächlich gibt es eine Menge Wege dies zu erreichen -- sobald du die neuen Commits lokal verfügbar hast, kannst du sie integrieren wie Commits von ganz normalen anderen Branches. Du kannst also:",
+              "Tatsächlich gibt es eine Menge Wege, dies zu erreichen -- sobald du die neuen Commits lokal verfügbar hast, kannst du sie integrieren wie Commits von ganz normalen anderen Branches. Du kannst also:",
               "",
               "* `git cherry-pick o/main`",
               "* `git rebase o/main`",
               "* `git merge o/main`",
               "* usw. usf. ausführen.",
               "",
-              "Änderungen vom Server zu holen und dann in die eigene Arbeit zu mergen wird so häufig benötigt, dass Git einen Befehl kennt, der beides auf einmal erledigt! Das ist `git pull`."
+              "Änderungen vom Server zu holen und dann in die eigene Arbeit zu mergen, wird so häufig benötigt, dass Git einen Befehl kennt, der beides auf einmal erledigt! Das ist `git pull`."
             ]
           }
         },
