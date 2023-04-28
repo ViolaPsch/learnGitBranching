@@ -645,7 +645,7 @@ exports.level = {
           "type": "GitDemonstrationView",
           "options": {
             "beforeMarkdowns": [
-              "Bevor wir uns die Einzelheiten von `git fetch` ansehen wollen wir es mal in Aktion sehen. Wir haben hier ein entferntes Repository, das zwei Commits hat, die in unserem lokalen Repository fehlen."
+              "Bevor wir uns die Einzelheiten von `git fetch` ansehen, wollen wir es mal in Aktion sehen. Wir haben hier ein entferntes Repository, das zwei Commits hat, die in unserem lokalen Repository fehlen."
             ],
             "afterMarkdowns": [
               "Das war's! Die Commits `C2` und `C3` wurden zu unserem Repository heruntergeladen und unser Remote Branch `o/main` wurde aktualisiert."
